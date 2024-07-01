@@ -99,7 +99,7 @@ const Controller = () => {
 
           {messages.length == 0 && !isLoading && (
             <div className="text-center font-light italic mt-10">
-              Send Ella a message...
+              Send a message to Ella...
             </div>
           )}
 
